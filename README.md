@@ -19,7 +19,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 
 | Day | Date                 | Focus / Topics Covered                                         | View The Code & Notes                                    |
 |:---:|:---------------------|:---------------------------------------------------------------|:---------------------------------------------------------|
-| 01  | **Sept 26, 2025** | **Number Systems & Computer Fundamentals** | [![Day 01 Code][shield]](./Day_01.md/)                       |
+| 01  | **Sept 26, 2025** | **Number Systems & Computer Fundamentals** | [![Day 01 Code][shield]](./DAY_01/)                       |
 | 02  |                      | *Upcoming...* |                                                          |
 | 03  |                      | *Upcoming...* |                                                          |
 
