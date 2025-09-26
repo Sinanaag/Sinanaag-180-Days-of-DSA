@@ -40,7 +40,18 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 > "Consistency beats intensity. A little progress every day builds up to massive success." 🚀  
 
 ---
-## Let's Connect & Grow Together!
+
+## 🤝 Inspiration & Friends
+
+A special shoutout to my friend who is also on this coding journey. We're in this together!
+
+<div align="center">
+  <img src="https://share.google/images/A77f6D6U6853DTgtc" alt="Friend's coding journey banner" width="500"/>
+</div>
+
+---
+
+## 📞 Let's Connect & Grow Together!
 
 <div align="center">
 
