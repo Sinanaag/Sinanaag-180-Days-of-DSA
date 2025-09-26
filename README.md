@@ -73,4 +73,4 @@ A special shoutout to my friend who is also on this coding journey. We're in thi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
 
-[shield]: https://img.shields.io/badge/Code%20&%20Notes-►-9cf?style=for-the-badge&logo=github
+[shield]:
