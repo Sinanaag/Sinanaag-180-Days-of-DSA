@@ -1,4 +1,3 @@
-# Sinanaag-180-Days-of-DSA
 <div align="center">
   <img width="1022" height="590" alt="banner image with a coding theme and the text 'Development'" src="https://github.com/user-attachments/assets/0bb94ed8-163c-4260-b104-baedd34c4ad9" />
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=🚀+Sinanaag's+180+Days+of+DSA+in+C++;📚+Building+Logic+One+Day+at+a+Time;🔥+Consistency+%3D+Growth" alt="Typing SVG" />
@@ -41,7 +40,7 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 > "Consistency beats intensity. A little progress every day builds up to massive success." 🚀  
 
 ---
-## 📞 Let's Connect & Grow Together!
+## Let's Connect & Grow Together!
 
 <div align="center">
 
