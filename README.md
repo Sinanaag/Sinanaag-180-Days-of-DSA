@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="1022" height="590" alt="banner image with a coding theme and the text 'Development'" src="<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/34499fa9-f5a9-455a-a9d2-82047e3ef987" />
+  <img width="1022" height="590" alt="banner image with a coding theme and the text 'Development'" src="<img width="640" height="480" alt="image" src="<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/e3905207-d06c-401e-ad1f-d75addb4b001" />
+" />
 " />
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=🚀+Sinanaag's+180+Days+of+DSA+in+C++;📚+Building+Logic+One+Day+at+a+Time;🔥+Consistency+%3D+Growth" alt="Typing SVG" />
   <h1>Mastering DSA in C++: A 180-Day Challenge</h1>
