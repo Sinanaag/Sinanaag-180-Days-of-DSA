@@ -18,8 +18,8 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 
 | Day | Date                 | Focus / Topics Covered                                         | View The Code & Notes                                    |
 |:---:|:---------------------|:---------------------------------------------------------------|:---------------------------------------------------------|
-| 01  | **Sept 26, 2025** | **Number Systems & Computer Fundamentals** | [![Day 01 Code][shield]](./DAY_1/)                       |
-| 02  | **Sept 27, 2025** | **Flowcharts, Conditionals (If/Else) & Loops** | [![Day 02 Code][shield]](./DAY_2/)                       |
+| 01  | **Sept 26, 2025** | **Number Systems & Computer Fundamentals** | [![Day 01 Code][shield]](./Day_1/)                       |
+| 02  | **Sept 27, 2025** | **Flowcharts, Conditionals (If/Else) & Loops** | [![Day 02 Code][shield]](./Day_2/)                       |
 | 03  |                      | *Upcoming...* |                                                          |
 
 
