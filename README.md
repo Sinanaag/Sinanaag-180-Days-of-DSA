@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="1022" height="590" alt="banner image with a coding theme and the text 'Development'" src="https://github.com/user-attachments/assets/0bb94ed8-163c-4260-b104-baedd34c4ad9" />
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=🚀+Sinanaag's+180+Days+of+DSA+in+C++;📚+Building+Logic+One+Day+at+a+Time;🔥+Consistency+%3D+Growth" alt="Typing SVG" />
   <h1>Mastering DSA in C++: A 180-Day Challenge</h1>
   <p>Documenting my journey of consistency, problem-solving, and mastering Data Structures & Algorithms with C++.</p>
@@ -19,8 +18,8 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 
 | Day | Date                 | Focus / Topics Covered                                         | View The Code & Notes                                    |
 |:---:|:---------------------|:---------------------------------------------------------------|:---------------------------------------------------------|
-| 01  | **Sept 26, 2025** | **Number Systems & Computer Fundamentals** | [![Day 01 Code][shield]](./DAY_01/)                       |
-| 02  | **Sept 27, 2025** | **Flowcharts, Conditionals (If/Else) & Loops** | [![Day 02 Code][shield]](./DAY_02/)                       |
+| 01  | **Sept 26, 2025** | **Number Systems & Computer Fundamentals** | [![Day 01 Code][shield]](./DAY_1/)                       |
+| 02  | **Sept 27, 2025** | **Flowcharts, Conditionals (If/Else) & Loops** | [![Day 02 Code][shield]](./DAY_2/)                       |
 | 03  |                      | *Upcoming...* |                                                          |
 
 
