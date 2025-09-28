@@ -17,11 +17,11 @@
 
 This log is a high-level overview of the topics covered each day. Detailed notes and code are located inside each day's respective folder.
 
-| Day | Date                 | Focus / Topics Covered                                         | View The Code & Notes                                    |
-|:---:|:---------------------|:---------------------------------------------------------------|:---------------------------------------------------------|
-| 01  | **Sept 26, 2025** | **Number Systems & Computer Fundamentals** | [![Day 01 Code][shield]](./DAY_01/)                       |
-| 02  | **Sept 27, 2025** | **Flowcharts, Conditionals (If/Else) & Loops** | [![Day 02 Code][shield]](./DAY_02/)                       |
-| 03  | **Sept 28, 2025** | **Data Storage, Variables & Primitive Data Types** | [![Day 03 Code][shield]](./DAY_03/)                       |
+| Day | Date                 | Focus / Topics Covered                                         | View The Code & Notes                                  |
+|:---:|:---------------------|:---------------------------------------------------------------|:-------------------------------------------------------|
+| 01  | **Sept 26, 2025** | **Number Systems & Computer Fundamentals** | [![Day 01 Code][shield]](./Day_1/)                      |
+| 02  | **Sept 27, 2025** | **Flowcharts, Conditionals (If/Else) & Loops** | [![Day 02 Code][shield]](./Day_2/)                      |
+| 03  | **Sept 28, 2025** | **Data Storage, Variables & Primitive Data Types** | [![Day 03 Code][shield]](./Day_3/)                      |
 
 
 ---
