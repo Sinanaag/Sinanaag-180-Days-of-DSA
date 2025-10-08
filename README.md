@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" alt="Topic DSA Badge"/>
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language C++ Badge"/>
     <img src="https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge" alt="Status In Progress Badge"/>
-    <img src="https://img.shields.io/badge/Day-4%2F180-brightgreen?style=for-the-badge" alt="Day Badge"/>
+    <img src="https://img.shields.io/badge/Day-13%2F180-brightgreen?style=for-the-badge" alt="Day Badge"/>
   </p>
 </div>
 
@@ -23,6 +23,15 @@ This log is a high-level overview of the topics covered each day. Detailed notes
 | 02  | **Sept 27, 2025** | **Flowcharts, Conditionals (If/Else) & Loops** | [![Day 02 Code][shield]](./Day_2/)                      |
 | 03  | **Sept 28, 2025** | **Data Storage, Variables & Primitive Data Types** | [![Day 03 Code][shield]](./Day_3/)                      |
 | 04  | **Sept 29, 2025** | **User Input, Type Casting, & `for` Loops** | [![Day 04 Code][shield]](./Day_4/)                      |
+| 05  | **Oct 01, 2025** | **Advanced `for` Loop Problems & Patterns** | [![Day 05 Code][shield]](./Day_5/)                      |
+| 06  | **Oct 01, 2025** | **Nested Loops & Pattern Printing** | [![Day 06 Code][shield]](./Day_6/)                      |
+| 07  | **Oct 02, 2025** | **Triangular & Pyramid Patterns** (Lec 07) | [![Day 07 Code][shield]](./Day_7/)                      |
+| 08  | **Oct 03, 2025** | **Hollow & Complex Patterns** (Lec 08) | [![Day 08 Code][shield]](./Day_8/)                      |
+| 09  | **Oct 04, 2025** | **Advanced Pattern Logic** (Lec 09) | [![Day 09 Code][shield]](./Day_9/)                      |
+| 10  | **Oct 05, 2025** | **Operators & Control Flow** (Lec 10-11) | [![Day 10 Code][shield]](./Day_10/)                     |
+| 11  | **Oct 06, 2025** | **Number Systems & First LeetCode** (Lec 12-13) | [![Day 11 Code][shield]](./Day_11/)                     |
+| 12  | **Oct 07, 2025** | **Functions (Pass by Value/Reference)** (Lec 14-15) | [![Day 12 Code][shield]](./Day_12/)                     |
+| 13  | **Oct 08, 2025** | **Introduction to Arrays** (Lec 16) | [![Day 13 Code][shield]](./Day_13/)                     |
 
 
 ---
